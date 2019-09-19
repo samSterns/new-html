@@ -1,0 +1,27 @@
+            .kitten{
+                color: pink;
+                border-style: inset;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+            }
+            li {
+                color:red;
+            }
+            p {
+                font-size: 14px;
+            }
+            #perfect-header{
+                color:palevioletred;
+            }
+            ol{
+                background-color:blue;
+            }
+            #sign{ 
+                font-style: oblique;
+            }
+            .titles{
+                color: blueviolet;
+                background-color: blanchedalmond;
+                font-size: 52px;
+                fill-rule: inherit;
+            }
